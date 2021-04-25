@@ -158,5 +158,5 @@ while choice != 0:
         print(studentInformation)
         choice = int(input("Do u want to get more choice: "))
     else:
-        print("You choose quit! Thank for using my program.")
+        print("You choose quit!.")
         break
