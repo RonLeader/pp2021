@@ -81,7 +81,7 @@ def cond_quit(input_value, min_value, max_value):
         a = True
     else:
         a = False
-        print("You choose quit! Thank for using my program.")
+        print("You choose quit!.")
     return a
 
 
